@@ -7,3 +7,8 @@ Bevande
 - Cola 
 - Aranciata
 - Acqua 
+
+Antipasti
+- Panelle
+- Patatine
+- Bruschetta
