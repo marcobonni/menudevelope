@@ -2,17 +2,22 @@ Da Paperino
 Menù Carne
 - Petto di pollo
 - Polpette al sugo
+- Risotto allo zafferano
 
 Bevande 
 - Cola 
 - Aranciata
+- Sprite
 - Acqua 
 
 Antipasti
 - Panelle
 - Patatine
 - Bruschetta
+- Gnocco fritto
 
 Dolci
--Tiramisù
--Cheescake
+- Tiramisù
+- Cheescake
+- Panna cotta
+
