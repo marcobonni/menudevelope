@@ -14,18 +14,13 @@ Antipasti
 - Panelle
 - Patatine
 - Bruschetta
-<<<<<<< HEAD
-
-Dolci
--Tiramisù
--Cheescake
-=======
 - Gnocco fritto
 
 Dolci
 - Tiramisù
 - Cheescake
 - Panna cotta
+
 Antipasti
 -Flan di zucca
 -Insalata Russa
@@ -36,5 +31,8 @@ primi veg
 - Beyond Burger Gourmet
 - straccetti di soia con peperoni
 
+Menu Dolci Vegetariani:
+-Torta di mele
+-Cheesecake a fragola
+-Crostata a limone
 
->>>>>>> f6108ca22ce75f4c94705324edb4db7f98e32f8e
