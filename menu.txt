@@ -2,17 +2,39 @@ Da Paperino
 Menù Carne
 - Petto di pollo
 - Polpette al sugo
+- Risotto allo zafferano
 
 Bevande 
 - Cola 
 - Aranciata
+- Sprite
 - Acqua 
 
 Antipasti
 - Panelle
 - Patatine
 - Bruschetta
+<<<<<<< HEAD
 
 Dolci
 -Tiramisù
 -Cheescake
+=======
+- Gnocco fritto
+
+Dolci
+- Tiramisù
+- Cheescake
+- Panna cotta
+Antipasti
+-Flan di zucca
+-Insalata Russa
+-Polenta fritta
+
+primi veg
+- Seitan con i funghi
+- Beyond Burger Gourmet
+- straccetti di soia con peperoni
+
+
+>>>>>>> f6108ca22ce75f4c94705324edb4db7f98e32f8e
