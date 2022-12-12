@@ -1,0 +1,37 @@
+Da Paperino
+Menù Carne
+- Petto di pollo
+- Polpette al sugo
+- Risotto allo zafferano
+
+Bevande 
+- Cola 
+- Aranciata
+- Sprite
+- Acqua 
+
+Antipasti
+- Panelle
+- Patatine
+- Bruschetta
+- Gnocco fritto
+
+Dolci
+- Tiramisù
+- Cheescake
+- Panna cotta
+
+Antipasti
+-Flan di zucca
+-Insalata Russa
+-Polenta fritta
+
+primi veg
+- Seitan con i funghi
+- Beyond Burger Gourmet
+- straccetti di soia con peperoni
+
+Secondi vegetariani
+- Soufflè di zucchine
+- Parmigiana di patate
+- Frittata di agretti
