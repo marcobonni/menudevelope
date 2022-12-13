@@ -20,6 +20,7 @@ Dolci
 - Tiramisù
 - Cheescake
 - Panna cotta
+
 Antipasti
 -Flan di zucca
 -Insalata Russa
@@ -30,4 +31,8 @@ primi veg
 - Beyond Burger Gourmet
 - straccetti di soia con peperoni
 
+Menu Dolci Vegetariani:
+-Torta di mele
+-Cheesecake a fragola
+-Crostata a limone
 
