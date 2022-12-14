@@ -2,7 +2,7 @@ Da Paperino
 Menù Carne
 - Petto di pollo
 - Polpette al sugo
-- Risotto allo zafferano
+- Cappone ripieno
 
 Bevande 
 - Cola 
@@ -30,6 +30,11 @@ primi veg
 - Seitan con i funghi
 - Beyond Burger Gourmet
 - straccetti di soia con peperoni
+
+Secondi vegetariani
+- Falafel di ceci con salsa tahina
+- Uova fritte al caciocavallo
+- Rotolini di radicchio al paté di ceci
 
 Menu Dolci Vegetariani:
 -Torta di mele
