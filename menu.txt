@@ -14,11 +14,9 @@ Bevande
 - Acqua 
 
 Antipasti
-- Misto Fritto
-(Patatine, panelle, mozzarelline)
-- Bruschette al pomodoro
-- Tagliere di salumi
-(Salame, prosciutto, bresaola)
+- Sautè di vongole
+- Cozze pepate
+- Crostini con salmone e formaggio fresco 
 
 <<<<<<< HEAD
 =======
