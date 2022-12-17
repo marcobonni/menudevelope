@@ -10,10 +10,11 @@ Bevande
 - Sprite
 - Acqua 
 
-Antipasti
-- Panelle
-- Patatine
-- Bruschetta
+Antipasti di pesce
+- Sautè di vongole
+- Cozze pepate
+- Crostini con salmone e formaggio fresco 
+
 - Gnocco fritto
 
 Dolci
