@@ -1,12 +1,52 @@
 Da Paperino
 Menù Carne
+- Petto di pollo
+- Polpette al sugo
+- Cappone ripieno
 
 Bevande 
 - Cola 
 - Aranciata
+<<<<<<< HEAD
+=======
+- Sprite
+>>>>>>> 74a731f16cfcca1b08227ebfc0962eb94d16209c
 - Acqua 
 
 Antipasti
-- Panelle
-- Patatine
-- Bruschetta
+- Misto Fritto
+(Patatine, panelle, mozzarelline)
+- Bruschette al pomodoro
+- Tagliere di salumi
+(Salame, prosciutto, bresaola)
+
+<<<<<<< HEAD
+=======
+- Gnocco fritto
+
+Dolci
+- Tiramisù
+- Cheescake
+- Panna cotta
+
+Antipasti
+-Flan di zucca
+-Insalata Russa
+-Polenta fritta
+
+primi veg
+- Seitan con i funghi
+- Beyond Burger Gourmet
+- straccetti di soia con peperoni
+
+Secondi vegetariani
+- Falafel di ceci con salsa tahina
+- Uova fritte al caciocavallo
+- Rotolini di radicchio al paté di ceci
+
+Menu Dolci Vegetariani:
+-Torta di mele
+-Cheesecake a fragola
+-Crostata a limone
+
+>>>>>>> 74a731f16cfcca1b08227ebfc0962eb94d16209c
