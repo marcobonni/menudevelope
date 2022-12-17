@@ -7,19 +7,14 @@ Menù Carne
 Bevande 
 - Cola 
 - Aranciata
-<<<<<<< HEAD
-=======
 - Sprite
->>>>>>> 74a731f16cfcca1b08227ebfc0962eb94d16209c
 - Acqua 
 
-Antipasti
+Antipasti di pesce
 - Sautè di vongole
 - Cozze pepate
 - Crostini con salmone e formaggio fresco 
 
-<<<<<<< HEAD
-=======
 - Gnocco fritto
 
 Dolci
@@ -47,4 +42,3 @@ Menu Dolci Vegetariani:
 -Cheesecake a fragola
 -Crostata a limone
 
->>>>>>> 74a731f16cfcca1b08227ebfc0962eb94d16209c
